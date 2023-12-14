@@ -32,4 +32,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEn }}
           branch: build
           force: true
-          directory: /build
+          directory: ./build
