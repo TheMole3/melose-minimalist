@@ -5,10 +5,10 @@ on:
     branches: [ main ]
 
 jobs:
-  build
+  build:
     runs-on: ubuntu-latest
       steps:
-        - uses: actions/checout@v2
+        - uses: actions/checkout@v2
           
         - name: Run a multi-line script
           uses: actions/setup-node@v2
