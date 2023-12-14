@@ -8,7 +8,7 @@
             <span class="font-medium text-lg select-none">Projekt</span>
 
             <a class="link ml-4" rel="external" href="/twister">Twister Spinner</a>
-            <a class="link ml-4" rel="external" href="/twister">Värmepumps fjärrkontroll</a>
+            <a class="link ml-4" rel="external" href="/heatpump">Värmepumps fjärrkontroll</a>
         </div>
 
 
