@@ -14,7 +14,7 @@
         <div class="w-9/12 flex flex-col gap-3 mt-10 lg:text-center">
             <span class="font-medium text-lg select-none">Andra sidor</span>
 
-            <a class="link ml-4" rel="external" href="https://github.com/TheMole3">Github (TheMole3)</a>
+            <a class="link ml-4" rel="external" href="https://github.com/TheMole3">Github</a>
         </div>
 
 
