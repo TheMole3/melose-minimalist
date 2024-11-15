@@ -7,8 +7,7 @@
         <div class="w-9/12 mt-12 flex flex-col gap-3 lg:text-center">
             <span class="font-medium text-lg select-none">Projekt</span>
 
-            <a class="link ml-4" rel="external" href="/twister">Twister Spinner</a>
-            <a class="link ml-4" rel="external" href="/heatpump">Värmepumps fjärrkontroll</a>
+            <a class="link ml-4" rel="external" href="https://twister.melo.se/">Twister Spinner</a>
         </div>
 
 
