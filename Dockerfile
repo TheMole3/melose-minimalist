@@ -11,4 +11,4 @@ COPY build /public
 EXPOSE 80
 
 # Run the static web server
-CMD ["static-web-server", "--help"]
+WORKDIR /
