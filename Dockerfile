@@ -1,14 +1,7 @@
-# Use joseluisq/static-web-server to serve the static files
-FROM joseluisq/static-web-server:2
-
-# Set the working directory for the static web server
-WORKDIR /public
+FROM nginx:alpine
 
 # Copy files from the build stage
-COPY build /public
+COPY build /usr/share/nginx/html
 
 # Expose port 80 to the outside world
 EXPOSE 80
-
-# Run the static web server
-WORKDIR /
